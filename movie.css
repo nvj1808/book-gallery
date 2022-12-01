@@ -1,0 +1,45 @@
+div{
+    width: 23%;
+    background-color: black;
+    height: 425px;
+    border: rgb(0, 42, 255) 4px solid;
+    float: left;
+    color:white ;
+    border-radius: 0%;
+
+
+}
+#a1{
+    border: rgb(255, 55, 0) 4px solid;
+    background-color: aqua;
+    border-radius: 20px;
+}
+body{
+    background-color: black;
+}
+h2{
+    text-align: center;
+    
+}
+img{
+    width: 89%;
+    height: 250px;
+}
+h1{
+    text-align: center;
+color: white
+
+}
+body{
+    border-radius:50px;
+}
+#A1{
+    
+        width: 23%;
+        background-color:rgb(255, 255, 255);
+        height: 25px;
+        border: rgb(0, 42, 255) 4px solid;
+        float: left;
+        color:rgb(8, 2, 2) ;
+        border-radius: 0%;
+}
